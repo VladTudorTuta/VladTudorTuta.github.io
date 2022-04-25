@@ -1,0 +1,20 @@
+.col {
+    color: #142d4c;
+}
+
+.container {
+    background: #ececec;
+    color: #385170;
+}
+
+.col-sm-4 {
+    background: #9fd3c7;
+}
+
+body {
+    background-color: #142d4c !important;
+}
+
+.progress-bar {
+    background-color: #385170 !important;
+}
